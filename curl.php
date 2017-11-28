@@ -3,7 +3,7 @@
 	include_once("simple_html_dom.php"); 
 	$cookie_file =tempnam('./temp','scookie'); 
  
-	login("1540129538","1");
+	login("学号","密码");
 
 	// schedular();
 	grade();
